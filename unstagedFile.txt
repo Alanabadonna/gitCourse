@@ -1,1 +1,2 @@
-unstaged 
+unstaged
+This is a test of cloning a repository from remote. Making changes to a file.
